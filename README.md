@@ -1,18 +1,5 @@
 # Dermatological Risk Predictor
 
-![home](https://user-images.githubusercontent.com/64016811/198942838-0e6e4445-4d29-4f88-ab03-b89460b37bf0.png)
-
-
-### Problem : 
-
-Heart Attack is a chronic health condition that affects how your heart pumps blood throughout your body. It is not a disease but a phenomena, where there are sudden cardiac arrests. Having healthy, low-cholesterol food, and being active can really help in reducing the chances of cardiac arrest. 
-
-### Solution:
-
-This Web app will help you to predict whether a person has chances of cardiac arrest or is prone to get it in future by analysing the values of several features using the Decision Tree Classifier.
-
-### Idea: 
-Building an application that can predict the occurrence of a cardiac arrest or the possible causes of it by indicating the highly relevant factors. 
 
 ### Layout
 
