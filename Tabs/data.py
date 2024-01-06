@@ -15,7 +15,8 @@ def app(df):
 
     # Create an expansion option to check the data
     with st.expander("View data"):
-        st.dataframe(df)
+        st.info("Displaying top 1000 values due to huge dataset size")
+        st.dataframe(df.head(1000))
 
     # Create a section to columns values
     # Give subheader
