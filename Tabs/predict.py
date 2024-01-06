@@ -2,7 +2,6 @@
 import pandas as pd
 # Import necessary modules
 import streamlit as st
-import streamlit.components.v1 as components
 
 # Import necessary functions from web_functions
 from web_functions import predict
