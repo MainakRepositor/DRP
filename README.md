@@ -20,4 +20,5 @@
 └─── setup.sh
 ```
 
+![image](https://github.com/MainakRepositor/DRP/assets/64016811/99e23beb-0c97-4a11-8526-c6b3e28b7172)
 
